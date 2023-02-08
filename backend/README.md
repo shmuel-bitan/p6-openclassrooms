@@ -1,4 +1,4 @@
 # Piiquante
-initialiser les champs BDD_NAME et BDD_MDP par les champs dans un fichier ".env" a partir du fichier ".env template" 
+initialiser le champ BDD_ID par le champ correspondant dans un fichier ".env" a partir du fichier ".env template" 
 
-lancer la commande "npm run start" dans le backend
+ dans le dossier backend lancer la commande "npm install" une fois l installation terminé lancer la commande  "npm run start"
